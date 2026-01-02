@@ -32,7 +32,7 @@ pip install pycryptodome
 
 pkg install git
 
-git clone https://github.com/asta0x/short-link.git
+git clone https://github.com/Tenkxzz/short-link.git
 
 cd short-link
 
